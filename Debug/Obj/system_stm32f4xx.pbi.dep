@@ -1,0 +1,17 @@
+system_stm32f4xx.pbi: \
+  G:\cloud\manager\Электроника\ЦАП\DA-07\V2\USB_I2S_PRIME_SUPER_v1.4\User\Src\system_stm32f4xx.c \
+  G:\cloud\manager\Электроника\ЦАП\DA-07\V2\USB_I2S_PRIME_SUPER_v1.4\User\Inc\stm32f4xx.h \
+  G:\cloud\manager\Электроника\ЦАП\DA-07\V2\USB_I2S_PRIME_SUPER_v1.4\User\Inc/stm32f446xx.h \
+  G:\cloud\manager\Электроника\ЦАП\DA-07\V2\USB_I2S_PRIME_SUPER_v1.4\User\Inc/core_cm4.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  G:\cloud\manager\Электроника\ЦАП\DA-07\V2\USB_I2S_PRIME_SUPER_v1.4\User\Inc/cmsis_version.h \
+  G:\cloud\manager\Электроника\ЦАП\DA-07\V2\USB_I2S_PRIME_SUPER_v1.4\User\Inc/cmsis_compiler.h \
+  G:\cloud\manager\Электроника\ЦАП\DA-07\V2\USB_I2S_PRIME_SUPER_v1.4\User\Inc\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  G:\cloud\manager\Электроника\ЦАП\DA-07\V2\USB_I2S_PRIME_SUPER_v1.4\User\Inc/mpu_armv7.h \
+  G:\cloud\manager\Электроника\ЦАП\DA-07\V2\USB_I2S_PRIME_SUPER_v1.4\User\Inc/system_stm32f4xx.h
